@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xavipena
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
-- 📫 How to reach me ... at xavipena at gamail dot com
+- 📫 How to reach me ... xavipena at gmail dot com
